@@ -7,9 +7,8 @@ This project is an Inventory Management System developed using PHP, HTML, CSS, J
 - **Product Management**: Add, update, delete, and view product details.
 - **Category Management**: Manage product categories and subcategories.
 - **Supplier Management**: Maintain supplier information and manage supplier relationships.
+- **Customer Management**: Maintain customer information and manage customer relationships.
 - **Inventory Tracking**: Monitor stock levels, receive and fulfill orders, and manage returns.
-- **User Authentication**: Secure login and registration system for administrators.
-- **Responsive Design**: Optimized for desktop and mobile devices using Bootstrap.
 
 ## Technologies Used
 
